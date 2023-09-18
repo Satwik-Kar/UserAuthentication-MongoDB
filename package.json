@@ -1,0 +1,15 @@
+{
+  "name": "userauthentication-mongodb",
+  "version": "1.0.0",
+  "description": "Basic user authentication model with registration and login functionality using the popular database mongo db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satwik-Kar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongo-db": "^1.0.2"
+  }
+}
