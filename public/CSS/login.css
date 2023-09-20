@@ -1,0 +1,22 @@
+.formContainer{
+    padding: 55px;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 20px;
+    box-shadow:  0 0 10px rgb(0, 0, 0);;
+
+
+
+}
+.loginText{
+    text-align: center;
+
+}
+body {
+    justify-content: center;
+    align-items: center;height: 100vh;
+    display: flex;
+    margin: 0;
+padding: 0;
+
+}
